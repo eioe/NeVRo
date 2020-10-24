@@ -8,6 +8,8 @@ However, if you want to get this code to run, please go for it. If there are pro
 
 klotzsche [at] cbs[.]mpg[.]de
 
+<sub>[<a href="https://github.com/eioe/NeVRo/tree/klotzsche2018_ieeevr">archived code</a>]</sub><br>
+
 It would have been better to write the code directly in a sustainable version, I know. But it was 2017 and I needed to finish my Masters and start my PhD. Bear with me. 
 Once we decided to publish it, I decided it's better to start a new repo "from scratch" with the collaborators. So this one got neglected. 
 Anyway, together we will also make this work. :) 
