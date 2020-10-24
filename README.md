@@ -3,7 +3,11 @@
 
 This pipeline is archived for the sake of completeness. This is the code which was used to produce the results reported in Klotzsche (2018) [IEEEVR conference Poster/mini proceedings paper]. This code has been "deprecated" and is not maintained. 
 As long as you do not just want to reproduce the results of this very poster/paper, you are better off with the newer NeVRo pipeline (see `master`branch or https://github.com/SHEscher/NeVRo). It's (slightly) better code and preprocessing - and (way better!) documentation.
-However, if you want to get this code to run, please go for it. If there are problems/unclarities (which is unfortunately very likely to be the case), do not hesitate to get in touch with me: klotzsche [at] cbs[.]mpg[.]de
+
+However, if you want to get this code to run, please go for it. If there are problems/unclarities (which is unfortunately very likely to be the case), do not hesitate to get in touch with me: 
+
+klotzsche [at] cbs[.]mpg[.]de
+
 It would have been better to write the code directly in a sustainable version, I know. But it was 2017 and I needed to finish my Masters and start my PhD. Bear with me. 
 Once we decided to publish it, I decided it's better to start a new repo "from scratch" with the collaborators. So this one got neglected. 
 Anyway, together we will also make this work. :) 
